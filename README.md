@@ -1,2 +1,1 @@
-#!/bin/bash
-Learn shell basics
+Shell redirections I/O and Filters
